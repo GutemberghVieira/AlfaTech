@@ -1,0 +1,194 @@
+
+##Navegação dos tópicos do site
+Cor de fundo branca
+
+-Logo
+AlfaTech
+
+-Links
+Informações 
+Planos
+Preços
+Contatos
+
+##Seção sobre
+
+-Fundo Roxo
+
+-Apresentação 
+Simples - Fácil de usar - 10x mais rápido!
+
+-Titulo de destaque
+O melhor serviço de hospedagem na web para seu 
+site.
+
+-Parágrafo informátivo
+Obtenha a melhor velocidade para o seu site. Não perca mais clientes
+por causa de lentidão na sua hospedagem.
+
+-imagem de destaque 
+
+
+##Seção Hospede 
+
+-Titulo de destaque
+Hospede o seu site por apenas R$29 por mês
+-Paragráfo de destaque
+Também temos planos gratuitos. Adquira já o seu.
+
+-Botão
+Tabela de Preços
+
+##Seção Serviços
+
+-Titulo
+Existem diversos serviços de hospedagem de sites.
+Porque você deve nos escolher?
+
+-3 box-containeres
+
+#first-box
+imagem 
+-titulo
+Fácil de configurar 
+-parágrafo
+Facilmente configurável em plataformas CMS
+populares - Wordpress, joomia..
+
+#second-box
+imagem
+-titulo
+Serivdores 100% online
+-Repetindo o texto 
+Facilmente configurável em plataformas CMS
+populares - Wordpress, joomia..
+
+#Three-box
+imagem
+-titulo
+Suport24/7
+-Repetindo o texto
+Facilmente configurável em plataformas CMS
+populares - Wordpress, joomia..
+
+##Seção Tabelas de usuários
+
+-Titulo
+Pague somente pelo que for usar. Sem cobranças adicionais
+
+-box-de-controle
+4-box-containeres posicionados lado a lado verticalmente
+
+1-box
+-Titulo
+Pessoal
+
+-imagem
+
+-paragráfo
+Indicado para uso pessoal
+
+2-box
+-Titulo
+Profissional
+
+-imagem
+
+paragráfo
+Indicado para profissionais de TJ
+
+3-box
+-Titulo
+Empresarial
+
+-imagem
+
+parágrafo
+Indicado para empresas
+
+4-box
+-Titulo
+Big Techs
+
+-imagem
+
+-parágrafos
+Indicado para grandes empresas
+
+-Tabela de usuários
+
+|º1 usário        | 10 usuários      | 25 usuários      | 50 usuários      |
+|º1 Dominio Grátis| 2 Dominíos Grátis| 2 Dominios Grátis| 3 Dominios Grátis|
+|º200GB SSD espaço| 500GB SSD  espaço| 1TB  SDD   espaço| 2TB SSD    espaço|
+|Ofertas especiais| Ofertas Especiais| Ofertas Especiais| Ofertas Especiais|
+|Suporte Limitado | Suporte Limitado | Suporte Limitado | Suporte Limitado |
+
+
+##Seção seja um alfaTech
+
+-Titulo de destaque
+Mais de 20.000 pessoas confiam na AlfaTech!
+Seja um deles você também!
+
+-Botão de destaque
+(icon foguete)Tabela de preços
+
+##Rodape Da Home
+
+-Logo Central
+AlfaTech logo
+
+-Titulo
+AlfaTech 
+
+-subtitulo
+soluçoes em hospedagem
+
+#box-com-parágrafos
+
+-first-paragraph
+Telefone & Whatsapp:(21)99999-5555
+
+-second-paragraph
+E-mail:suporte@afatech.com
+
+-Third-paragraph
+Endereço:Map(Av Ayrton Senna, 3000 - Barra da Tijuca -Rio de 
+Janeiro
+
+-Fourth-paragraph
+&copy; AlfaTech - Soluções em hospedagem - Todos os direitos 
+reservados
+
+
+-Destaque final
+Desenvolvido por ("nome do desenvolvedor")
+
+
+### Link de navegação (Preços)
+
+##Seção Tabelas de preços
+
+-Repetindo Navegação da página principal
+
+-Tabela
+                                    Pessoal --Profissional--Empresarial-----Bio Techs
+                -Tabela-Horizontal| Grátis    | R$29      |   R$39          |  R$69
+-Tabela-Vertical                  |-----------|-----------|-----------------|---------         
+MONITORAMENTO DE REDE             | 3REDES    | 10REDES   | 20REDES         | 50REDES
+DASHBOARD                         | 1DashBoard| 5DashBoard|10Dashboard      | 25Dashboard
+USUÀRIOS                          | 1Usuário  | 5Usuários |10Usuários       | 25Usuários
+Relatório de Atualização          | TodaHora  |A cada30min|Quaseemtemporeal | Tempo Real
+Relatórios de Emails              |    *      |    *      |    *            |    *
+Transações Ilimitadas             |    *      |    *      |    *            |    *
+Rastreador de pagamentos          |    *      |    *      |    *            |    *
+Exportação de Dados               |    *      |    *      |    *            |    *
+Conversor de moeda                |           |    *      |    *            |    *
+Acesso a API                      |           |    *      |    *            |    *
+Restrição de IP                   |           |           |    *            |    *
+Feed Personalizado                |           |           |    *            |    *
+Limite de importação de dados     | último ano| útimo2anos| últimos 3 anos  | últimos 3 anos
+Retenção de dados                 |Tempodevida|Tempodevida|tempodevida      | Tempo de vida
+Suporte                           | Email     |Email&Chat | Email & chat    | Email, Chat & Voice
+
+-Repetindo Rodapé Da página principal
