@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Protest+Revolution&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html{
+scroll-behavior:smooth;
+}
+
+:root{
+--background-color-container-found:#9D30FE;
+--background-dark-section-alfaTech:#271f2e;
+--background-dark-section-alfaTech-button:#433053;
+}
+
+*{
+margin:0;
+padding:0;
+font-family:"Roboto";
+text-decoration:none;
+list-style:none;
+box-sizing:border-box;
+} 
+
+body{
+width:100%;
+height:100%;
+}
+
+div{
+width:100%;
+} 
+
+.Header-Alfa-Tech{
+padding:35px 0;
+}
+
+.Img-Alfa-Tech-Logo{
+max-width:1024px;
+width:80%;
+margin:0 auto; 
+display:flex;
+justify-content:space-between;   
+align-items:center;
+}
+
+.Img-Alfa-Tech-Logo img{
+width:100px;
+}
+
+.Navigation-Alfa-Tech{
+display:flex;
+}
+
+.Navigation-Alfa-Tech li{
+padding:10px;
+margin:0 10px;
+background:var(--background-color-container-found);
+border-radius:5px;
+}
+
+.Navigation-Alfa-Tech li:hover{
+background:#ffffff;
+}
+
+.Navigation-Alfa-Tech li:hover a {
+transition:.5s ease-in;
+color:var(--background-color-container-found);
+}
+
+.Navigation-Alfa-Tech li a{
+color:#ffffff;
+}
+
+.Section-Services-AlfaTech{
+background:var(--background-color-container-found);
+padding:85px 0;
+width:100%;
+height:100%;
+}
+
+.Section-Services-AlfaTech{
+background-color:#fff;
+height:50%;
+font-family:"roboto"
+}
+
+.Section-Services-AlfaTech .info-pre-rodape{
+width:100%;
+margin:10px auto;
+padding:18px 0;
+background-color:#9D30FE;
+}
+
+.info-pre-rodape img{
+width:100px;
+}
+
+.info-pre-rodape h3{
+text-align:center;
+color:#433053;
+margin:15px 0;
+}
+
+.info-pre-rodape p{
+margin:10px 0;
+text-align:center;
+}
+
+.padding-zero{
+padding:20px 0 0 0;
+}
+
+.Rodape-The-final{
+width:100%;
+padding:20px 0;
+text-align:center;
+}
+
+.Rodape-The-final a{
+color:var(--background-color-container-found);
+font-weight:bold;
+}
+
+.Tech-group{
+display:flex;
+width:350px;
+}
+
+.Tech-group h3,
+.Tech-group p{
+margin:10px 0;
+}
+ 
+figure{
+text-align:center;
+display:flex;
+justify-content:center;
+}
+
+.Table-Container{
+width:100%;
+height:100%;
+}
+
+.Preços{
+width:100%;
+margin:20px auto;
+border-spacing:0;
+}
+
+.Preços tr th h3, .Preços tr th p{
+padding:10px;
+} 
+
+.Preços tr th h3{
+color:#9D30FE
+}
+
+.Preços tr th p{
+text-align:center;
+}
+
+.Preços tr th h3, .Preços tr th p{
+background-color:#f1f1f1;
+padding:10px
+}
+
+.Preços tr th h3{
+font-size:24px;
+}
+
+.Preços tr th p{
+font-size:14px;
+color:gray;
+}
+
+.Preços tr td{
+text-align:center;
+padding:10px;
+}
+
+.Posicionado-left{
+background:#f5f2f5;
+text-align:left;
+padding:15px;
+}
+
+.ball-purple{
+width:20px;
+height:20px;
+background:#9D30FE;
+border-radius:50%;
+margin:0 auto
+}
+
+.text-white{
+color:#fff;
+font-weight: bold;
+}
+
+.Exit-Tabela{
+padding:10px;
+width:45px;
+height:45px;
+text-align:center;
+background-color:#9D30FE;
+position:absolute;
+top:25px;
+left:25px;
+border-radius:50%;
+}
+
+.Exit-Tabela i {
+color:#ffff;
+font-size:25px;
+}
+
+.Exit-Tabela:hover{
+background-color:#fff;
+transition:.3s ease-in;
+}
+
+.Exit-Tabela i:hover{
+color:#111;
+transition:.3s ease-in;
+}
+
+@media (max-width:768px){
+.Img-Alfa-Tech-Logo{
+flex-direction:column;    
+}
+
+.Navigation-Alfa-Tech{
+flex-direction: column;
+}
+
+.Navigation-Alfa-Tech li{
+margin:10px 0;
+}
+
+.Table-Container{
+display:flex;
+}
+ 
+.Preços{
+width:100%;
+overflow-x: scroll;
+display:flex;
+}    
+
+.Preços tr th,.Preços tr th h3, .Preços tr th p, .Preços tr td{
+font-size:10px;
+}
+
+.ball-purple{
+width:10px;
+height:10px;
+}
+
+.Preços tr th h3{
+font-size:15px;
+}
+
+.Tech-group{
+width:100%;
+}
+
+ 
+
+.Tech-group figure img,.Tech-group  figure div{
+width:150px;
+justify-content:center;    
+}
+
+.Exit-Tabela {
+position: absolute;
+left:80%;
+}
+
+}
