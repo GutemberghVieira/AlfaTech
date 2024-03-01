@@ -68,6 +68,7 @@ padding:10px;
 margin:0 10px;
 background:var(--background-color-container-found);
 border-radius:5px;
+text-align:center;
 }
 
 .Navigation-Alfa-Tech li:hover{
